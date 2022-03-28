@@ -1,3 +1,11 @@
 print("Lyka Marie Luci Chavez")
 print("Agumaymayan, Boac, Marinduque")
 print("July 1, 2001")
+
+print("MyEducationalBackground")
+print("Elementary: Agumaymayan Elementary School")
+print("Junior High School: Marinduque National High School")
+print("Senior Hight School: Marinduque State College")
+print("College: Marinduque State College")
+print("Course: Bachelor of Science in Information Technology")
+print("Year and section: 2F")
